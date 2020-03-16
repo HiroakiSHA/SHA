@@ -2,3 +2,5 @@ test
 test2
 
 new test
+
+lesson git remove
