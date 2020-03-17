@@ -57,3 +57,6 @@ if args[1] == 'p':
 
 if args[1] == 's':
     add_suffix(args[2])
+
+if args[1] == 'd':
+    rename_asset(args[2], '')
